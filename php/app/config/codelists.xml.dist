@@ -126,19 +126,22 @@
     <value name="por" code="por" code2="pt">
         <cze>portugalština</cze>
 	    <eng>Portuguese</eng>
-        <eng>Portugués</eng>
+        <spa>Portugués</spa>
     </value>
     <value name="nor" code="nor" code2="no">
         <cze>norština</cze>
 		<eng>Norwei</eng>
+        <spa>Noruego</spa>
     </value>
     <value name="dan" code="dan" code2="da">
         <cze>dánština</cze>
 		<eng>Danish</eng>
+        <spa>Danés</spa>
     </value>
     <value name="hun" code="hun" code2="hu">
         <cze>maďarština</cze>
 		<eng>Hungarian</eng>
+        <spa>Húngaro</spa>
     </value>
     <value name="spa" code="spa" code2="es">
         <cze>španělština</cze>
@@ -148,51 +151,63 @@
     <value name="fin" code="fin" code2="fi">
         <cze>finština</cze>
 		<eng>Finnish</eng>
+        <spa>Finlandés</spa>
     </value>
     <value name="dut" code="dut" code2="nl">
         <cze>holandština</cze>
 		<eng>Dutch</eng>
+        <spa>Holandés</spa>
     </value>
 
     <value name="alb" code="alb" code2="sq">
         <cze>albánština</cze>
 		<eng>Albanian</eng>
+        <spa>Albanés</spa>
     </value>
     <value name="bul" code="bul" code2="bg">
         <cze>bulharština</cze>
 		<eng>Bulgarian</eng>
+        <spa>Búlgaro</spa>
     </value>
     <value name="gre" code="gre" code2="el">
         <cze>řečtina</cze>
 		<eng>Greek</eng>
+        <spa>Griero</spa>
     </value>
     <value name="hrv" code="hrv" code2="hr">
         <cze>chorvatština</cze>
 		<eng>Croatian</eng>
+        <spa>Croata</spa>
     </value>
     <value name="lit" code="lit" code2="lt">
         <cze>litevština</cze>
 		<eng>Lithuanian</eng>
+        <spa>Lituano</spa>
     </value>
     <value name="rum" code="rum" code2="ro">
         <cze>rumunština</cze>
 		<eng>Romanian</eng>
+        <spa>Rumano</spa>
     </value>
     <value name="bos" code="bos" code2="bs">
         <cze>bosenština</cze>
 		<eng>Bosnian</eng>
+        <spa>Bosnio</spa>
     </value>
     <value name="srp" code="srp" code2="sr">
         <cze>srbština</cze>
 		<eng>Serbian</eng>
+        <spa>Serbio</spa>
     </value>
     <value name="ukr" code="ukr" code2="uk">
         <cze>ukrajinština</cze>
 		<eng>Ukrainian</eng>
+        <spa>Ukraniano</spa>
     </value>
     <value name="zxx" code="zxx" code2="xx">
         <cze>žádný</cze>
 		<eng>no language</eng>
+        <spa>Sin idionma</spa>
     </value>
   </language>
 
@@ -200,22 +215,27 @@
     <value name="usAscii" code="25">
         <cze>ASCII</cze>
 		<eng>ASCII</eng>
+        <spa>ASCII</spa>
     </value>
     <value name="8859part6" code="11">
         <cze>8859part6</cze>
 		<eng>8859part6</eng>
+        <sp>8859part6</spa>
     </value>
     <value name="8859part5" code="10">
         <cze>8859part5</cze>
 		<eng>8859part5</eng>
+        <spa>8859part5</spa>
     </value>
     <value name="8859part4" code="9">
         <cze>8859part4</cze>
 		<eng>8859part4</eng>
+        <spa>8859part4</spa>
     </value>
     <value name="8859part2" code="7">
         <cze>iso latin 2 (8859-2)</cze>
 		<eng>iso latin 2 (8859-2)</eng>
+        <spa>iso latin 2 (8859-2)</spa>
     </value>
     <value name="8859part3" code="8">
         <cze>8859part3</cze>
@@ -2123,23 +2143,27 @@
     <value name="primary" code="99">
         <cze>primární poskytovatel</cze>
 		<eng>primary</eng>
+        <spa>primario</spa>
     </value>
     <value name="custodian" code="2">
         <cze>správce</cze>
 		<eng>custodian</eng>
+        <spa>custodio</spa>
     </value>
     <value name="publisher" code="10">
         <cze>vydavatel</cze>
 		<eng>publisher</eng>
+        <spa>publicador</spa>
     </value>
     <value name="owner" code="3">
         <cze>vlastník</cze>
-		    <eng>owner</eng>
+		<eng>owner</eng>
         <spa>propietario</spa>
     </value>
     <value name="user" code="4">
         <cze>uživatel</cze>
 		<eng>user</eng>
+        <eng>usuario</eng>
     </value>
     <value name="distributor" code="5">
         <cze>distributor</cze>
@@ -2167,6 +2191,7 @@
     <value name="resourceProvider" code="1">
         <cze>poskytovatel zdroje</cze>
 		<eng>resource provider</eng>
+        <spa>proveedor del recurso</spa>
     </value>
     <value name="author" code="11">
         <cze>autor</cze>
@@ -2690,7 +2715,7 @@
 <format>
     <title lang="cze">Formát zdroje</title>
     <title lang="eng">Resource format</title>
-    <title lang="eng">formatos del recurso</title>
+    <title lang="spa">formatos del recurso</title>
 	<value code="x-shapefile" uri="https://inspire.ec.europa.eu/media-types/application/x-shapefile">
         <cze qtip="The media type shall be used for Esri shapefiles. The file is a zip archive that contains at least the shp, shx and dbf files.">ESRI Shapefile</cze>
 		<eng qtip="The media type shall be used for Esri shapefiles. The file is a zip archive that contains at least the shp, shx and dbf files.">ESRI Shapefile</eng>
@@ -2780,22 +2805,27 @@
 	<value name="" uri="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/european">
         <cze qtip="Datová sada má v úmyslu pokrýt Evropu.">Evropský</cze>
 		<eng qtip="The scope of the data set intends to cover Europe.">European</eng>
+        <spa qtip="The scope of the data set intends to cover Europe.">Europeo</spa>
     </value>
 	<value name="" uri="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/global">
         <cze qtip="Datová sada má v úmyslu pokrýt celou Zemi.">Celosvětový</cze>
 		<eng qtip="The scope of the data set intends to cover whole World.">Global</eng>
+        <spa qtip="The scope of the data set intends to cover whole World.">Global</spa>
     </value>
 	<value name="" uri="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/local">
         <cze qtip="Datová sada má v úmyslu pokrýt území jedné nebo několika místních správních jednotek.">Místní</cze>
 		<eng qtip="The scope of the data set intends to cover the territory of one or several local administrative units.">Local</eng>
+        <spa qtip="The scope of the data set intends to cover the territory of one or several local administrative units.">Local</spa>
     </value>
 	<value name="" uri="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national">
         <cze qtip="Datová sada má v úmyslu pokrýt území státu.">Národní</cze>
 		<eng qtip="The scope of the data set intends to cover the national territory.">National</eng>
+        <spa qtip="El alcance del conjunto de datos pretende abarcar el territorio nacional.">Nacional</spa>
     </value>
 	<value name="" uri="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/regional">
         <cze qtip="Datová sada má v úmyslu pokrýt území jednoho nebo několika správních jednotek na nižší než celostátní úrovni.">Regionální</cze>
 		<eng qtip="The scope of the data set intends to cover the territory of one or several sub-national level administrative units.">Regional</eng>
+        <spa qtip="El alcance del conjunto de datos pretende abarcar el territorio de una o varias unidades administrativas de nivel subnacional.">Regional</spa>
     </value>
 </spatialScope>
 <obligatory>
